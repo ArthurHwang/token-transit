@@ -1,0 +1,12 @@
+.customBorder {
+  border: 4px dotted green;
+  border-radius: 20px;
+}
+
+.customPadding {
+  padding: 50px 200px;
+}
+
+.customMargin {
+  margin: 50px 100px;
+}
