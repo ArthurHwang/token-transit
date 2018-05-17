@@ -1,0 +1,53 @@
+* {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.x {
+  position: absolute;
+  background-color: #76ff03;
+  display: block;
+}
+
+.z {
+  display: block;
+  left: 50%;
+  position: absolute;
+  background-color: #ff6e40;
+}
+
+.container {
+  position: fixed;
+  margin-top: 100px;
+}
+
+p {
+  display: block;
+  width: 960px;
+  padding-left: 0;
+  margin: auto;
+}
+
+p.one {
+  background-color: rgb(238, 62, 128);
+}
+
+p.two {
+  background-color: rgb(243, 106, 152);
+}
+
+p.three {
+  background-color: rgb(244, 123, 166);
+}
+
+p.four {
+  background-color: rgb(245, 140, 178);
+}
+
+p.five {
+  background-color: rgb(246, 159, 192);
+}
+
+p.six {
+  background-color: rgb(245, 176, 204);
+}
