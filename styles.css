@@ -51,7 +51,7 @@ body {
 /* style="fill: currentColor; vertical-align: middle; display: inline-block" */
 
 #logo {
-
+  fill: #2899d4;
   position: absolute;
   top: 25px;
   left: 20px;
@@ -60,9 +60,13 @@ body {
   width: 30px;
   list-style: none;
   color: #2899d4;
-  background-color:#2899d4;
+  /* background-color:#2899d4; */
 }
 
+#logo a img {
+  fill: #2899d4;
+  color: #2899d4;
+}
 
 
 li.navFloatRight {
